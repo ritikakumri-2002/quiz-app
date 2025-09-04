@@ -1,0 +1,12 @@
+[
+  { "question": "🖥️ What does HTML stand for?", "options": ["Hyper Text Markup Language", "High Tech Machine Learning", "Hyperlink Text Markdown Language", "Home Tool Markup Language"], "answer": "Hyper Text Markup Language" },
+  { "question": "🎨 Which language is used for styling web pages?", "options": ["HTML", "jQuery", "CSS", "C++"], "answer": "CSS" },
+  { "question": "⚡ Which is NOT a JavaScript framework?", "options": ["React", "Angular", "Vue", "Python"], "answer": "Python" },
+  { "question": "🌍 Which company developed React?", "options": ["Google", "Facebook", "Microsoft", "Amazon"], "answer": "Facebook" },
+  { "question": "🤖 What does AI stand for?", "options": ["Artificial Intelligence", "Automated Interface", "Analytical Input", "Applied Internet"], "answer": "Artificial Intelligence" },
+  { "question": "📱 Which company created the Android OS?", "options": ["Apple", "Google", "Microsoft", "Samsung"], "answer": "Google" },
+  { "question": "🚀 Which tag is used to create a hyperlink in HTML?", "options": ["<link>", "<a>", "<href>", "<hyper>"], "answer": "<a>" },
+  { "question": "🎧 Which HTML tag is used to play audio files?", "options": ["<media>", "<music>", "<sound>", "<audio>"], "answer": "<audio>" },
+  { "question": "🎬 Which HTML tag is used to display video?", "options": ["<media>", "<movie>", "<video>", "<show>"], "answer": "<video>" },
+  { "question": "✨ CSS stands for?", "options": ["Creative Style System", "Cascading Style Sheets", "Computer Styling Setup", "Custom Style Software"], "answer": "Cascading Style Sheets" }
+]

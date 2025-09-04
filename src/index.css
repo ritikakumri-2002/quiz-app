@@ -1,0 +1,21 @@
+/* Reset + smooth fonts */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body, #root { height: 100%; }
+:root{
+  --bg1:#6a11cb;      /* purple */
+  --bg2:#2575fc;      /* teal/blue */
+  --card:#ffffff;
+  --text:#222;
+  --muted:#666;
+  --accent:#ff7a59;   /* orange */
+  --green:#22c55e;
+  --red:#ef4444;
+  --progress:#a78bfa; /* soft purple */
+}
+body {
+  font-family: 'Poppins', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  background: linear-gradient(135deg, var(--bg1), var(--bg2));
+  color: white;
+  display: grid;
+  place-items: center;
+}
