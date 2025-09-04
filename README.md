@@ -69,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# quiz-app" 
+# Quiz App
+
+This is my Quiz App project.
+
+## Live Demo
+
+[Click here to view the live demo](https://quizappjs1.netlify.app/)
